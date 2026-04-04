@@ -1,0 +1,3 @@
+Public IP Address of VM: 20.196.136.182
+
+Static Website access URL for Q3: https://akthapar.z12.web.core.windows.net/
